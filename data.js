@@ -1,0 +1,1 @@
+export const text = 'Hello from NodeJS community in data.js!'
